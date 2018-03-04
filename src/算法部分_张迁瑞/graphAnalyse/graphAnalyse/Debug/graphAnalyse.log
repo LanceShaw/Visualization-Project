@@ -1,0 +1,9 @@
+﻿  main.cpp
+c:\users\asus\appdata\roaming\tencent\wechat\wechat files\zhichitianyaowen\attachment\graphanalyse\graphanalyse\graphanalyse\main.cpp(260): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\asus\appdata\roaming\tencent\wechat\wechat files\zhichitianyaowen\attachment\graphanalyse\graphanalyse\graphanalyse\main.cpp(262): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\asus\appdata\roaming\tencent\wechat\wechat files\zhichitianyaowen\attachment\graphanalyse\graphanalyse\graphanalyse\main.cpp(310): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\asus\appdata\roaming\tencent\wechat\wechat files\zhichitianyaowen\attachment\graphanalyse\graphanalyse\graphanalyse\main.cpp(315): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\asus\appdata\roaming\tencent\wechat\wechat files\zhichitianyaowen\attachment\graphanalyse\graphanalyse\graphanalyse\main.cpp(324): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\asus\appdata\roaming\tencent\wechat\wechat files\zhichitianyaowen\attachment\graphanalyse\graphanalyse\graphanalyse\main.cpp(330): warning C4018: “<”: 有符号/无符号不匹配
+  graphAnalyse.vcxproj -> C:\Users\ASUS\AppData\Roaming\Tencent\WeChat\WeChat Files\zhichitianyaowen\Attachment\graphAnalyse\graphAnalyse\Debug\graphAnalyse.exe
+  graphAnalyse.vcxproj -> C:\Users\ASUS\AppData\Roaming\Tencent\WeChat\WeChat Files\zhichitianyaowen\Attachment\graphAnalyse\graphAnalyse\Debug\graphAnalyse.pdb (Partial PDB)
